@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>
+		<lang name="default">Who votes in question?</lang>
+		<lang name="russian">Кто голосовал в опросе?</lang>
+	</name>
+	<author>
+		<lang name="default">Klaus and s4people</lang>
+		<lang name="russian">Klaus and s4people</lang>
+	</author>
+	<homepage>http://altocms.ru</homepage>
+	<version>1.0.0</version>
+	<dirname>voterquestion</dirname>
+    <requires>
+        <alto>
+             <version>1.0.0</version>
+        </alto>
+    </requires>
+	<description>
+		<lang name="default">Show who votes in question</lang>
+		<lang name="russian">Позволяет просматривать кто как проголосовал в опросе</lang>
+	</description>
+</plugin>
